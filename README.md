@@ -18,13 +18,13 @@ CarePing is a simple educational web application built with Streamlit to help or
 ![CarePing Dashboard](screenshots/Dashboard.png)
 
 ### Appointments
-![CarePing Appointments](screenshots/Appointments.png)
+![CarePing Appointments](./screenshots/Appointments.png)
 
 ### Records
 ![CarePing Records](screenshots/Records.png)
 
 ### Create Appointment
-![Create Appointment](screenshots/create%20appointment.png)
+![Create Appointment](./screenshots/create%20appointment.png)
 
 ## Technology Stack
 
