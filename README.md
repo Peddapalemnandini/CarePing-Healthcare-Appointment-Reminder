@@ -18,25 +18,25 @@ CarePing is a simple educational web application built with Streamlit to help or
 
 Displays appointment statistics, including total appointments, appointments scheduled for today, and appointments in the next seven days.
 
-![CarePing Dashboard](screenshots/dashboard.png)
+![CarePing Dashboard](screenshots/Dashboard.png%20(2).png)
 
 ### 2. Appointments
 
 View and manage scheduled healthcare appointments.
 
-![CarePing Appointments](screenshots/appoinments.png)
+![CarePing Appointments](screenshots/Appoinments.png.png)
 
 ### 3. Records
 
 View appointment records and review saved appointment details.
 
-![CarePing Records](screenshots/records.png)
+![CarePing Records](screenshots/Records.png.png)
 
 ### 4. Create Appointments
 
 Add a new appointment by entering the required details.
 
-![Create Appointments](screenshots/create%20appoinments.png)
+![Create Appointments](screenshots/create%20appoinment.png.png)
 
 ## Technology Stack
 
@@ -65,7 +65,7 @@ Before running the project, install:
 
 ### Step 1: Open the Project
 
-Download or clone the repository and open the `healthcare_appointment_reminder` folder in VS Code.
+Download or clone the repository and open the project folder containing `app.py` in VS Code.
 
 ### Step 2: Open the Terminal
 
@@ -129,10 +129,10 @@ healthcare_appointment_reminder/
 ├── VIDEO_PRESENTATION_SCRIPT.md
 ├── .gitignore
 └── screenshots/
-    ├── dashboard.png
-    ├── appoinments.png
-    ├── records.png
-    └── create appoinments.png
+    ├── Appoinments.png.png
+    ├── Dashboard.png (2).png
+    ├── create appoinment.png.png
+    └── Records.png.png
 ```
 
 ## Assessment Submission Checklist
