@@ -14,29 +14,17 @@ CarePing is a simple educational web application built with Streamlit to help or
 
 ## Screenshots
 
-### 1. Dashboard
+### Dashboard
+![CarePing Dashboard](screenshots/Dashboard.png)
 
-Displays appointment statistics, including total appointments, appointments scheduled for today, and appointments in the next seven days.
+### Appointments
+![CarePing Appointments](screenshots/Appointments.png)
 
-![CarePing Dashboard](screenshots/Dashboard.png%20(2).png)
+### Records
+![CarePing Records](screenshots/Records.png)
 
-### 2. Appointments
-
-View and manage scheduled healthcare appointments.
-
-![CarePing Appointments](screenshots/Appoinments.png.png)
-
-### 3. Records
-
-View appointment records and review saved appointment details.
-
-![CarePing Records](screenshots/Records.png.png)
-
-### 4. Create Appointments
-
-Add a new appointment by entering the required details.
-
-![Create Appointments](screenshots/create%20appoinment.png.png)
+### Create Appointment
+![Create Appointment](screenshots/create%20appointment.png)
 
 ## Technology Stack
 
